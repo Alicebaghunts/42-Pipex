@@ -27,6 +27,7 @@ As mentioned before, this project is done with the help of a new set of tools: p
 ## Sources
 ---
 
+
 * [**Unix Processes in C**](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) a good youtube playlist to inderstanding  how processing works in c .
 * [**Pipex Cookbook**](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)
 * [**PReproducing the Pipe Operator “|” in C**](https://www.codequoi.com/en/pipex-reproducing-the-pipe-operator-in-c/)
